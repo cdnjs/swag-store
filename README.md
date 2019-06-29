@@ -15,3 +15,8 @@ for all the published item designs.
 Spreadshirt allow you to customise the color theme that you use for the whole store as well as providing custom CSS for
 the shop and custom HTML in the header/footer. We have only made use of the custom CSS to make minor changes to the
 design of the pages as overall, it works fine out of the box.
+
+## Customisations
+
+ - Color theme: [colors.md](customisations/colors.md)
+ - Custom CSS: [custom-css.css](customisations/custom-css.css)
