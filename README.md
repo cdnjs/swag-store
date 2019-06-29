@@ -26,5 +26,6 @@ design of the pages as overall, it works fine out of the box.
 
  - [Illustration T-Shirt](designs/illustration-shirt.md)
  - [Logo T-Shirt](designs/logo-shirt.md)
- - [Tri-blends, hoodies & sweaters](designs/logo-triblend-hoodies-sweaters.md)
+ - [Tri-blends, Hoodies & Sweaters](designs/logo-triblend-hoodies-sweaters.md)
  - [Logo Accessories](designs/accessories.md)
+ - [Subtle Logo Zip-up Hoodies](designs/subtle-logo.md)
