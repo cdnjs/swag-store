@@ -20,3 +20,4 @@ design of the pages as overall, it works fine out of the box.
 
  - Color theme: [colors.md](customisations/colors.md)
  - Custom CSS: [custom-css.css](customisations/custom-css.css)
+ - Store strings: [strings.md](customisations/strings.md)
