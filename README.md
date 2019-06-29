@@ -16,6 +16,12 @@ Spreadshirt allow you to customise the color theme that you use for the whole st
 the shop and custom HTML in the header/footer. We have only made use of the custom CSS to make minor changes to the
 design of the pages as overall, it works fine out of the box.
 
+## Swag Store Landing Page
+
+ - Landing page: [index.html](index.html)
+ - Catch-all 404: [404.html](404.html)
+ - Site assets: [assets](assets)
+
 ## Customisations
 
  - Color theme: [colors.md](customisations/colors.md)
